@@ -9,4 +9,4 @@ Technologies used: flex, grid, Sass, BEM, animations (transform, translate, anim
 It was build basing tehe following:
 [Figma design](https://www.figma.com/file/Fz588JKGuPS2Bk21De4KE5/Brand-of-eco-cosmetics-_FE-students?node-id=21779%3A631&t=Gtk1Kj4TKq6BJit2-1)
 
-[DEMO LINK](https://natalia-serogina/eco-cosmetics-landing/)
+[DEMO LINK](https://natalia-serogina.github.io/eco-cosmetics-landing/)
