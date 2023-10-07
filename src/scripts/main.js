@@ -100,4 +100,3 @@ function onScrollAnimation() {
 }
 
 window.addEventListener('scroll', e => onScrollAnimation());
-
